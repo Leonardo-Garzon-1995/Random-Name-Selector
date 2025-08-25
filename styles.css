@@ -51,3 +51,8 @@ button {
     background: none;
     color: darkslategray;
 }
+
+.display-random-name {
+    font-size: 1.3em;
+    color: navy;
+}
